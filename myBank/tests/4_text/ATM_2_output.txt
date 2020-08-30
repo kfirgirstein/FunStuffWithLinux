@@ -1,0 +1,10 @@
+2: New account id is 1111 with password 0001 and initial balance 1000
+2: New account id is 21111 with password 0022 and initial balance 10
+2: New account id is 31111 with password 0333 and initial balance 1000
+2: New account id is 41111 with password 4444 and initial balance 10000000
+2: Account 3 balance is 951
+2: Account 3 new balance is 1051 after 100 $ was deposited
+2: Transfer 100 from account 3 to account 1 new account balance is 909 new target account balance is 961
+2: Account 1 balance is 942
+2: Account 1 new balance is 842 after 100 $ was withdrew
+2: Account 1 is now closed. Balance was 793

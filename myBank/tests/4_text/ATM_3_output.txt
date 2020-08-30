@@ -1,0 +1,15 @@
+3: New account id is 111 with password 0001 and initial balance 1000
+3: New account id is 221 with password 0022 and initial balance 10
+3: New account id is 331 with password 0333 and initial balance 1000
+3: New account id is 441 with password 4444 and initial balance 10000000
+Error 3: Your transaction failed – account with the same id exists
+Error 3: Invalid command or argument(s)
+Error 3: Incorrect number of arguments
+Error 3: Your transaction failed – account with the same id exists
+Error 3: Your transaction failed – account 11 balance is lower than 10000
+3: Account 11 new balance is 944 after 100 $ was deposited
+Error 3: Your transaction failed – password for account id 11 is incorrect
+3: Transfer 100 from account 11 to account 221 new account balance is 826 new target account balance is 110
+Error 3: Your transaction failed – account 11 balance is lower than 10000
+3: Transfer 100 from account 111 to account 44 new account balance is 664 new target account balance is 7912509
+Error 3: Your transaction failed – account 111 balance is lower than 1000000000

@@ -1,0 +1,18 @@
+1: New account id is 11 with password 0001 and initial balance 1000
+1: New account id is 22 with password 0022 and initial balance 10
+1: New account id is 33 with password 0333 and initial balance 1000
+1: New account id is 44 with password 4444 and initial balance 10000000
+Error 1: Your transaction failed – account with the same id exists
+Error 1: Invalid command or argument(s)
+Error 1: Incorrect number of arguments
+Error 1: Your transaction failed – account 22 balance is lower than 100
+Error 1: Your transaction failed – password for account id 22 is incorrect
+Error 1: Your transaction failed – account 22 balance is lower than 100
+Error 1: Your transaction failed – password for account id 22 is incorrect
+Error 1: Your transaction failed – password for account id 2 is incorrect
+Error 1: Your transaction failed – password for account id 1 is incorrect
+Error 1: Your transaction failed – no account with the given id
+Error 1: Your transaction failed – account 22 balance is lower than 100
+Error 1: Your transaction failed – no account with the given id
+Error 1: Your transaction failed – password for account id 22 is incorrect
+Error 1: Your transaction failed – no account with the given id
